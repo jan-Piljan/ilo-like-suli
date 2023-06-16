@@ -165,7 +165,7 @@ function resizedw(){
 // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
 // the link to your model provided by Teachable Machine export panel
-const URL = "https://teachablemachine.withgoogle.com/models/73FVn0D9A/";
+const URL = "https://teachablemachine.withgoogle.com/models/fxU7c5dN1/";
 
 let model, maxPredictions = 9; // set up values for ai
 document.onload = init() // run the init on page load
